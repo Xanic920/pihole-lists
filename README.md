@@ -1,3 +1,0 @@
-# pihole-lists
-
-Private Lists
